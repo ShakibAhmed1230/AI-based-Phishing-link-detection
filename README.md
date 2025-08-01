@@ -29,24 +29,9 @@ This project is a complete prototype that uses advanced feature engineering tech
 ![input](https://github.com/ShakibAhmed1230/AI-based-Phishing-link-detection/blob/main/Screenshot%20(193).png?raw=true)
 
     ✅ Prediction Result
+    
+ ![image alt](https://github.com/ShakibAhmed1230/AI-based-Phishing-link-detection/blob/main/Screenshot%20(184).png?raw=true)
 
-
-
-
-
-    📁 Log File Confirmation
-
-![Log Saved](snaps/Screenshot%20\(188\).png)
-
-    🔄 Backend Prediction Running
-
-![Model Running](snaps/Screenshot%20\(189\).png)
-
-    🎯 Final Result View
-
-![Success](snaps/Screenshot%20\(190\).png)
-
-      
 
    ⚙️ How It Works
 
@@ -64,7 +49,7 @@ This project is a complete prototype that uses advanced feature engineering tech
    * Phishing` or Legitimate`
    * Shows probability
      
-4. Log saved in Excel DB with timestamp and result.
+4. Log saved in DB with timestamp and result.
 
       
 
