@@ -66,6 +66,7 @@ __🔗 Input Interface__
    __⚙️ How It Works__
 
 **1. User enters a URL via the web interface.**
+
 __2. Features are extracted:__
    * URL Length
    * Digits Count
