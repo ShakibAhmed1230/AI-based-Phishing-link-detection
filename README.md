@@ -29,12 +29,12 @@ This project is a complete prototype that uses advanced feature engineering tech
 
 
 
-  
+**1/1**
 ![image alt](https://github.com/ShakibAhmed1230/AI-based-Phishing-link-detection/blob/main/Screenshot%20(188).png?raw=true)
 
 
 
-
+**1/2**
 ![image alt](https://github.com/ShakibAhmed1230/AI-based-Phishing-link-detection/blob/main/Screenshot%20(189).png?raw=true )
 
 
@@ -44,7 +44,7 @@ This project is a complete prototype that uses advanced feature engineering tech
 
 
 
-  
+**2**  
   
 ![image alt](https://github.com/ShakibAhmed1230/AI-based-Phishing-link-detection/blob/main/Screenshot%20(187).png?raw=true)
   
