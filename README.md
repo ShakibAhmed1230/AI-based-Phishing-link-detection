@@ -73,11 +73,7 @@ This project is a complete prototype that uses advanced feature engineering tech
 
  🧠 Machine Learning Models
 
-| Model    | Accuracy | F1 Score | ROC AUC |
-|                  |                  |                 
-| CatBoost | 87.01%   | 0.8113   | 0.9147  |
-| XGBoost  | 85.12%   | 0.7942   | 0.9025  |
-| Deep NN  | 82.43%   | 0.7811   | 0.8894  |
+
 
       
 
@@ -119,7 +115,7 @@ All predictions are logged automatically to a timestamped Excel file with:
 * Date & Time
 * Processing Duration
 
-  <img width="1366" height="768" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/4c2e5f2d-d1e1-41ee-9edb-2d37ba2e6d75" />
+ 
 
 
 How to Run
@@ -146,15 +142,14 @@ You will get a live URL from ngrok. Open in browser to test.
    👨‍💻 Author
 
 **Shakib Ahmed**
-BSc in CSE | AI Researcher | Cybersecurity Enthusiast
+BSc in CSE | AI Researchee & Developer 
 
       
 
    📬 Contact
 
-Email: [shakibahmedcse@gmail.com](mailto:shakibahmedcse@gmail.com)
-GitHub: \[Your GitHub link]
-LinkedIn: \[Your LinkedIn link]
+Email: [shakibahmedcse@gmail.com]
+
 
       
 
