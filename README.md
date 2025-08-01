@@ -121,7 +121,9 @@ All predictions are logged automatically to a timestamped Excel file with:
 **How to Run:**
 
 bash
+
 pip install   r requirements.txt
+
 python copy_of_final_pproject.py
 
 
@@ -142,7 +144,7 @@ You will get a live URL from ngrok. Open in browser to test.
    __👨‍💻 Author__
 
 **Shakib Ahmed**
-BSc in CSE | AI Researchee & Developer 
+BSc in CSE | AI Researcher & Developer 
 
       
 
