@@ -51,6 +51,9 @@ This project is a complete prototype that uses advanced feature engineering tech
      
 4. Log saved in DB with timestamp and result.
 
+
+   ![image alt](https://github.com/ShakibAhmed1230/AI-based-Phishing-link-detection/blob/main/Screenshot%20(190).png?raw=true)
+
       
 
  🧠 Machine Learning Models
