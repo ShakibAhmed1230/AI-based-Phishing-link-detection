@@ -1,11 +1,6 @@
   AI  based  Phishing  link  detection
-  Phishing URL Detection System
 
 Welcome to the **Phishing URL Detection** project! This AI  powered system helps detect whether a given URL is legitimate or a phishing attempt using machine learning models trained on real  world data.
-
-
- ![image alt](https://github.com/ShakibAhmed1230/AI-based-Phishing-link-detection/blob/main/Screenshot%20(193).png?raw=true)
-
       
 
    🔍 Project Description
