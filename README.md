@@ -86,22 +86,6 @@ This project is a complete prototype that uses advanced feature engineering tech
 
       
 
-📁 Project Structure
-
-project/
-├── phishing_model.pkl
-├── copy_of_final_pproject.py
-├── templates/
-│   └── index.html
-├── phishing_logs_<timestamp>.xlsx
-├── snaps/
-│   ├── Screenshot (180).png
-│   ├── Screenshot (181).png
-│   ├── ...
-```
-
-      
-
 📊 Log Management
 
 All predictions are logged automatically to a timestamped Excel file with:
@@ -115,7 +99,7 @@ All predictions are logged automatically to a timestamped Excel file with:
  
 
 
-How to Run
+How to Run:
 
 bash
 pip install   r requirements.txt
