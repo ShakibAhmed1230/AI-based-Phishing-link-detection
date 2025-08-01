@@ -52,16 +52,18 @@ This project is a complete prototype that uses advanced feature engineering tech
 
 1. User enters a URL via the web interface.
 2. Features are extracted:
-
    * URL Length
    * Digits Count
    * Special Characters
    * Entropy
    * Subdomain Count
-3. Model predicts:
 
+![image alt](https://github.com/ShakibAhmed1230/AI-based-Phishing-link-detection/blob/main/Diagram.png?raw=true)
+     
+3. Model predicts:
    * Phishing` or Legitimate`
    * Shows probability
+     
 4. Log saved in Excel DB with timestamp and result.
 
       
