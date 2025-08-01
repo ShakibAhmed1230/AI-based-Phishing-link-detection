@@ -58,7 +58,7 @@ __🔗 Input Interface__
 
 ![input](https://github.com/ShakibAhmed1230/AI-based-Phishing-link-detection/blob/main/Screenshot%20(193).png?raw=true)
 
-    __ ✅ Prediction Result__
+  **✅ Prediction Result**
     
  ![image alt](https://github.com/ShakibAhmed1230/AI-based-Phishing-link-detection/blob/main/Screenshot%20(184).png?raw=true)
 
