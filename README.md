@@ -104,7 +104,7 @@ __4. Log saved in DB with timestamp and result.__
 
       
 
-**__📊 Log Management**__
+__**📊 Log Management**__
 
 All predictions are logged automatically to a timestamped Excel file with:
 
